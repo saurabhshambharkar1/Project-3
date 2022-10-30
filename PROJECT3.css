@@ -1,0 +1,63 @@
+body{
+    background-color: red;
+}
+
+#img{
+    height: 100vh;
+    width: 100vw;
+    background-image: url(./IMAGES/fresh-fruits-g8f3696688_1920.jpg);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-position: center; */  
+    margin-bottom: 30px;  
+}
+#DOB{
+    outline: none;
+
+}
+
+#form{
+    margin-left: 400px;
+    background-color: white; 
+    padding-top: 40px;  
+    padding-bottom: 108px;
+    padding-left: 40px;
+}
+
+.label{
+    margin-top: 20px;
+    border-bottom: 1px solid; 
+    padding-left: 2px;
+    padding-bottom: 2px;
+    padding-top: 2px;
+    font-size: medium;
+    outline: none;
+    /* display: inline-block; */
+}
+#btn{
+    border: none;
+    color: green;
+    /* background-color: red;
+    height: 40px;
+    width: 90px; */
+    outline: none; 
+}
+input{
+    border: none;
+    outline: none;
+}
+#comm{
+    display: inline-block;
+}
+#comm{
+    /* margin-left: 20px; */
+}
+.label1{
+    border-bottom: 1px solid;
+    display: inline-block;
+    margin-top: 20px;
+}
+#comm2{
+    margin-left: 40px;
+}
